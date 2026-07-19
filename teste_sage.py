@@ -5,6 +5,8 @@ from rich.text import Text
 
 console = Console()
 
+# OLA]
+
 class Calc:
     def somar(self, a: float, b: float) -> float:
         return a + b
